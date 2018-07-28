@@ -1,0 +1,4 @@
+#Fri Jul 13 01:03:41 CDT 2018
+base.0=/Users/daniel/Downloads/Bigbonos2/platforms/android/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/daniel/Downloads/Bigbonos2/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex
