@@ -72,4 +72,5 @@
     <preference name="StatusBarStyle" value="lightcontent" />
     <preference name="moca_app_key" value="0sIc9QMoRrqpJpY6qm7afA" />
     <preference name="moca_app_secret" value="UB2qsbn/a09Bm2qp8G5jFIfnPXM=" />
+    <preference name="orientation" value="portrait" />
 </widget>
